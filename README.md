@@ -2,7 +2,7 @@
 
 Benchmark of XML and JSON serialization and deserialization in Java, measured in two deployment models: virtual machines and Docker containers. The goal is to answer: **is serialization/deserialization faster in container-based systems than in VMs?**
 
-University project for the *Integração de Sistemas* (Systems Integration) course, Computer Engineering (LEI), University of Coimbra.
+University project for the *Integração de Sistemas* (Systems Integration) course, MSc in Software Engineering (MEI), University of Coimbra.
 
 ## Scenario
 
@@ -87,4 +87,4 @@ Conclusions:
 
 ## Authors
 
-Simão Carvalho, André Rodrigues · University of Coimbra · Computer Engineering · 2026
+Simão Carvalho, André Rodrigues · University of Coimbra · MSc in Software Engineering · 2026
