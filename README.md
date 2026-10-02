@@ -85,8 +85,6 @@ Conclusions:
 - **VMs vs containers:** serialization was several times faster in the container runs, and deserialization was similar or up to 1.5x faster at 250,000 records. Memory use was higher in containers in these runs.
 - **Caveat:** the payload sizes differ between the VM and the container runs (for example 648,103 and 1,037,898 bytes for 10,000 XML records), so the comparison is not strictly like for like. Each configuration was measured once, so the results are indicative.
 
-<!-- TODO: add the main chart (e.g. copy a comparison PNG from "Results - graphs" into the README) -->
-
 ## Authors
 
 Simão Carvalho, André Rodrigues · University of Coimbra · Computer Engineering · 2026
